@@ -85,6 +85,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Tasks.cpp" />
     <ClCompile Include="UI.cpp" />
     <QtRcc Include="Tasks.qrc" />
     <QtUic Include="Tasks.ui" />
